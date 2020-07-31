@@ -11,7 +11,7 @@ class TikTok:
         self.lock = threading.Lock()
 
         try:
-            self.amount = int(input('> Amount: '))
+            self.amount = int(input('> Desired Amount of Shares: '))
         except ValueError:
             print('\nInteger expected.')
             os.system('title [TikTok Shares Botter] - Restart required')
