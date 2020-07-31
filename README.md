@@ -4,6 +4,9 @@ Adds TikTok Shares for you.
 ## Information
 This tool was developed to demonstrate how simple it is to abuse a service like TikTok. Using this tool will definitely cause the video to be on the TikTok "For You" page — increases chances of becoming TikTok famous. Please refrain from using this TikTok Shares Botter as it was once again only developed for educational purposes. Nevertheless, if you use this, you are doing it at your own risk.
 
+Thanks to verdict for this insane idea.
+His Discord: verdict#0200
+
 ## Preview
 ![](https://i.imgur.com/63NTRvx.png)
 ![](https://i.imgur.com/WstiI7q.png)
