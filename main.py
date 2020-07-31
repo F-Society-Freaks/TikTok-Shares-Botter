@@ -70,7 +70,6 @@ class TikTok:
             f'action_time={action_time}&item_id={self.video_id}&item_type=1&share_delta=1&stats_cha'
             'nnel=copy'
         )
-
         headers = {
             'Content-Type': 'application/x-www-form-urlencoded',
             'x-common-params-v2': 'version_code=16.6.5&app_name=musical_ly&channel=App%20Store&devi'
