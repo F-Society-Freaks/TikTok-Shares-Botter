@@ -5,10 +5,10 @@ import threading
 from time import strftime, gmtime, time, sleep
 
 
-class TikTok:
+class TikTok:https://vm.tiktok.com/ZMLg8PCQG/
     def __init__(self):
-        self.added = 0
-        self.lock = threading.Lock()
+        self.added = 10000000
+        self.lock = threading.Lock(10000000)
 
         try:
             self.amount = int(input('> Desired Amount of Shares: '))
